@@ -4,7 +4,7 @@
   <li>📫 How to reach me: adrian.mamyto@gmail.com</li>
   <li>🧑‍💻 I want to be a orchestra man, so I want to learn a lot of tech stacks, like PHP, C++, C#, Next.Js, Angular, Web3, Blockchain, etc.</li>
   <li>🔮 In the future, I would like to try my hand at creating games, but for now I am focusing on improving my Web Developer skills.</li>
-  <li>⚡ Fun fact: When I programming, I listen all about geopolitics and Jazz.</li>
+  <li>⚡ Fun fact: When I coding, I listen all about geopolitics and Jazz.</li>
 </ul>
 
 
