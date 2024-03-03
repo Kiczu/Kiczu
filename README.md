@@ -1,4 +1,10 @@
-### Hi there 👋
+
+👋 Hi, my name is Adrian. I am a Junior React Developer.
+🌱 I'm currently learning TypeScript + Tailwind.
+📫 How to reach me: adrian.mamyto@gmail.com
+🧑‍💻 I want to be a orchestra man, so I want to learn a lot of tech stacks, like PHP, C++, C#, Next.Js, Angular, Web3, Blockchain, etc.
+🔮 In the future, I would like to try my hand at creating games, but for now I am focusing on improving my Web Developer skills.
+⚡ Fun fact: When I programming, I listen all about geopolitics and Jazz.
 
 <!--
 **Kiczu/Kiczu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
